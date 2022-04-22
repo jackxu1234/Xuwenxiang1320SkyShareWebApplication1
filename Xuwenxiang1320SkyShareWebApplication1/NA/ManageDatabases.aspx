@@ -1,4 +1,5 @@
-﻿<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site1.Master" AutoEventWireup="true" CodeBehind="ManageDatabases.aspx.cs" Inherits="Xuwenxiang1320SkyShareWebApplication1.NA.ManageDatabases" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
     Network Administrator
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
